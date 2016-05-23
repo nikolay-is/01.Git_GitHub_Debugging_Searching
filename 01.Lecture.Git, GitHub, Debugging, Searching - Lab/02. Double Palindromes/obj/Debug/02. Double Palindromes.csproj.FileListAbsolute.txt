@@ -1,0 +1,5 @@
+Z:\bitbucket\softuniccharpprogrammingfundamentals\Git, GitHub, Debugging, Searching - Lab\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe.config
+Z:\bitbucket\softuniccharpprogrammingfundamentals\Git, GitHub, Debugging, Searching - Lab\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe
+Z:\bitbucket\softuniccharpprogrammingfundamentals\Git, GitHub, Debugging, Searching - Lab\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.pdb
+Z:\bitbucket\softuniccharpprogrammingfundamentals\Git, GitHub, Debugging, Searching - Lab\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.exe
+Z:\bitbucket\softuniccharpprogrammingfundamentals\Git, GitHub, Debugging, Searching - Lab\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.pdb
